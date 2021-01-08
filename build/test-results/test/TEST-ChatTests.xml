@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChatTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-08T13:29:50" hostname="DESKTOP-K82U3FC" time="0.099">
+  <properties/>
+  <testcase name="test()" classname="ChatTests" time="0.099"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
